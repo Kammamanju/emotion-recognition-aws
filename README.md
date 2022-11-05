@@ -5,9 +5,9 @@ official repository for emotion recognition using AWS
 Python
 
 #Softwares
-1.vs code (https://code.visualstudio.com)
-2.python (https://python.org)
-3.Git (https://git-scm.com)
+1. vs code (https://code.visualstudio.com)
+2. python (https://python.org)
+3. Git (https://git-scm.com)
 
 # Packages
 1. pip install boto3 (AWS SDK)
